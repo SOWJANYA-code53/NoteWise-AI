@@ -569,4 +569,4 @@ elif page == "About Project":
     """)
 
 st.divider()
-st.caption("© 2026 NoteWise AI | Built with Python and AI")
+st.caption("© 2026 NoteWise AI | Smart Learning Starts Here 🚀")
